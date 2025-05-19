@@ -62,4 +62,5 @@ The dataset was further analyzed to calculate mean survival rates across differe
 - Males, particularly in 3rd class, had the lowest survival probability.
 
 Screenshots:
+
 ![image](https://github.com/user-attachments/assets/786eaf09-fd49-42e7-986a-394d10088925)
