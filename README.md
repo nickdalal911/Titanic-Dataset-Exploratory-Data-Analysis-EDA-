@@ -10,9 +10,9 @@ The dataset used is the classic **Titanic** dataset containing information on pa
 
 ## Technologies Used
 - Python 
-- pandas
-- seaborn
-- matplotlib
+- Pandas
+- Seaborn
+- Matplotlib
 - Jupyter Notebook
 
 ## EDA Steps
@@ -42,7 +42,7 @@ Screenshot:
 - Sex
 ## Age distribution with histogram
 
-Screenshot:
+Screenshots:
 ![image](https://github.com/user-attachments/assets/f05955a5-fc7d-41b4-b64b-ddf304df16fa)
 ![image](https://github.com/user-attachments/assets/9bdfc439-9dc4-4f8b-b977-57042e1ae26c)
 
@@ -64,6 +64,6 @@ The dataset was further analyzed to calculate mean survival rates across differe
 - Females had a much higher survival rate across all classes, especially in 1st and 2nd class.
 - Males, particularly in 3rd class, had the lowest survival probability.
 
-Screenshots:
+Screenshot:
 
 ![image](https://github.com/user-attachments/assets/786eaf09-fd49-42e7-986a-394d10088925)
