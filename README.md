@@ -20,7 +20,8 @@ The dataset used is the classic **Titanic** dataset containing information on pa
 - Loading CSV file using `seaborn`
 - Viewing structure with `.info()`, `.head()`.
 
-*Screenshot:  ![image](https://github.com/user-attachments/assets/9b95633d-ef2f-4d32-bd19-0898eed38bbf)
+*Screenshot: 
+![image](https://github.com/user-attachments/assets/9b95633d-ef2f-4d32-bd19-0898eed38bbf)
 
 
 ## Data Cleaning
@@ -30,6 +31,7 @@ The dataset used is the classic **Titanic** dataset containing information on pa
 - Embarked with most value_counts()
 
 Screenshot:
+
 ![image](https://github.com/user-attachments/assets/794e4326-93ab-4704-8277-d31895e6c66a)
 
 ## Univariate Analysis
